@@ -1,0 +1,13 @@
+.idea
+node_modules
+yarn.lock
+
+# Example
+example/node_modules
+example/.next/
+example/out/
+example/build
+example/.vercel
+example/.pnp
+example.pnp.js
+example/yarn.lock
